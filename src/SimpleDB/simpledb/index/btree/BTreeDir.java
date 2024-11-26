@@ -1,4 +1,4 @@
-package simpledb.index.btree;
+package SimpleDB.simpledb.index.btree;
 
 import simpledb.file.BlockId;
 import simpledb.query.Constant;

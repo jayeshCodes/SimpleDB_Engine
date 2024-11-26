@@ -1,4 +1,4 @@
-package simpledb.index;
+package SimpleDB.simpledb.index;
 
 import simpledb.query.Constant;
 import simpledb.record.RID;

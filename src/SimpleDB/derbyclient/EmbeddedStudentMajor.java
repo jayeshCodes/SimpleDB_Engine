@@ -1,3 +1,4 @@
+package SimpleDB.derbyclient;
 
 import java.sql.*;
 import org.apache.derby.jdbc.EmbeddedDriver;

@@ -1,4 +1,4 @@
-package simpledb.buffer;
+package SimpleDB.simpledb.buffer;
 
 /**
  * A runtime exception indicating that the transaction

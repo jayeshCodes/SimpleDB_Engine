@@ -1,4 +1,4 @@
-package simpledb.index.planner;
+package SimpleDB.simpledb.index.planner;
 
 import java.util.*;
 import simpledb.tx.Transaction;

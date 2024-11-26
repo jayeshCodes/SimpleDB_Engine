@@ -1,4 +1,4 @@
-package simpledb.index.btree;
+package SimpleDB.simpledb.index.btree;
 
 import static java.sql.Types.INTEGER;
 import simpledb.file.BlockId;

@@ -1,4 +1,4 @@
-package simpledb.file;
+package SimpleDB.simpledb.file;
 import java.io.*;
 
 public class JavaFileTest {

@@ -1,4 +1,4 @@
-package simpledb.buffer;
+package SimpleDB.simpledb.buffer;
 
 import java.io.*;
 import simpledb.file.BlockId;

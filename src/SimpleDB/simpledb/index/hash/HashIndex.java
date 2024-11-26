@@ -1,4 +1,4 @@
-package simpledb.index.hash;
+package SimpleDB.simpledb.index.hash;
 
 import simpledb.tx.Transaction;
 import simpledb.record.*;

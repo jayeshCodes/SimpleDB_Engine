@@ -1,7 +1,7 @@
-package simpledb.buffer;
+package SimpleDB.simpledb.buffer;
 
-import simpledb.server.SimpleDB;
-import simpledb.file.*;
+import SimpleDB.simpledb.server.SimpleDB;
+import SimpleDB.simpledb.file.*;
 
 public class BufferTest {
    public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package simpledb.buffer;
+package SimpleDB.simpledb.buffer;
 
 import simpledb.server.SimpleDB;
 import simpledb.file.*;

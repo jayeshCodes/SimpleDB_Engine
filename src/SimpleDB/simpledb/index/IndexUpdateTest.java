@@ -1,4 +1,4 @@
-package simpledb.index;
+package SimpleDB.simpledb.index;
 
 import java.util.*;
 import simpledb.metadata.*;
